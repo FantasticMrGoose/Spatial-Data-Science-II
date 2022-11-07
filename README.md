@@ -1,2 +1,2 @@
 # GGR376
-SpatialDataScience II
+Spatial Data Science II
