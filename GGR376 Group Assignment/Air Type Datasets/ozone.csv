@@ -1,0 +1,122 @@
+,State.Name,City.Name,County.Name,Latitude,Longitude,Parameter.Name,Units.of.Measure,Metric.Used,Sample.Duration,Observation.Count
+1,Connecticut,Greenwich (Town of),Fairfield,41.004657,-73.585128,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,3089
+2,Connecticut,Danbury,Fairfield,41.399167,-73.443056,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,2966
+3,Connecticut,Stratford (Town of),Fairfield,41.1525,-73.103056,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,3032
+4,Connecticut,Westport,Fairfield,41.118333,-73.336667,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,3039
+5,Connecticut,East Hartford,Hartford,41.784722,-72.631667,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,2926
+6,Connecticut,Cornwall,Litchfield,41.821342,-73.297257,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,6039
+7,Connecticut,Middletown,Middlesex,41.552196,-72.630015,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,3043
+8,Connecticut,New Haven,New Haven,41.3014,-72.902871,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,6095
+9,Connecticut,Madison (Town of),New Haven,41.256788,-72.55327,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,3052
+10,Connecticut,Groton,New London,41.35362,-72.07882,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,2981
+11,Connecticut,Stafford (Stafford Hollow),Tolland,41.976389,-72.388056,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,2925
+12,Connecticut,,Windham,41.84046,-72.010368,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,6135
+13,Massachusetts,Truro,Barnstable,41.975804,-70.023598,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,5116
+14,Massachusetts,Adams,Berkshire,42.63668,-73.167428,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,4109
+15,Massachusetts,Fall River,Bristol,41.685707,-71.169235,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,5281
+16,Massachusetts,Fairhaven (Town of),Bristol,41.645381,-70.897504,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,3096
+17,Massachusetts,Aquinnah,Dukes,41.330469,-70.785225,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,5129
+18,Massachusetts,Lynn,Essex,42.474642,-70.970816,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,6107
+19,Massachusetts,Newburyport,Essex,42.814412,-70.817783,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,5259
+20,Massachusetts,Haverhill,Essex,42.770837,-71.10229,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,5191
+21,Massachusetts,Chicopee,Hampden,42.19438,-72.555112,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,6170
+22,Massachusetts,North Amherst,Hampshire,42.400579,-72.523109,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,5272
+23,Massachusetts,Ware (census name for Ware Center),Hampshire,42.298493,-72.334079,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,5965
+24,Massachusetts,Chelmsford (Chelmsford Center),Middlesex,42.62668,-71.362068,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,6122
+25,Massachusetts,Milton,Norfolk,42.211774,-71.11397,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,5142
+26,Massachusetts,Boston,Suffolk,42.317372,-70.968359,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,5387
+27,Massachusetts,Boston,Suffolk,42.3295,-71.0826,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,6105
+28,Massachusetts,Worcester,Worcester,42.274319,-71.875511,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,5164
+29,Massachusetts,Uxbridge,Worcester,42.099699,-71.619399,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,5305
+30,New York,Albany,Albany,42.68075,-73.75733,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,6146
+31,New York,New York,Bronx,40.816,-73.902,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,5928
+32,New York,New York,Bronx,40.8679,-73.87809,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,6181
+33,New York,Dunkirk,Chautauqua,42.49963,-79.31881,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,5820
+34,New York,Millbrook,Dutchess,41.78555,-73.74136,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,6045
+35,New York,Amherst,Erie,42.99328,-78.77153,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,5904
+36,New York,,Essex,44.36608,-73.90312,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,5987
+37,New York,,Essex,44.39308,-73.8589,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,5989
+38,New York,,Essex,43.9731,-74.2232,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,4090
+39,New York,,Franklin,44.980577,-74.695005,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,2779
+40,New York,,Franklin,44.980577,-74.695005,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,3421
+41,New York,,Hamilton,43.44957,-74.51625,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,6083
+42,New York,,Herkimer,43.68578,-74.98538,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,6117
+43,New York,,Jefferson,44.08747,-75.97316,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,6145
+44,New York,Rochester,Monroe,43.14618,-77.54817,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,6084
+45,New York,New York,New York,40.81976,-73.94825,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,6075
+46,New York,Middleport,Niagara,43.22386,-78.47888,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,3882
+47,New York,East Syracuse,Onondaga,43.05235,-76.05921,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,5845
+48,New York,Montgomery,Orange,41.52375,-74.21534,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,5839
+49,New York,Fulton,Oswego,43.28428,-76.46324,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,6138
+50,New York,,Putnam,41.45589,-73.70977,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,6026
+51,New York,New York,Queens,40.73614,-73.82153,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,5944
+52,New York,New York,Richmond,40.59664,-74.12525,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,5307
+53,New York,,Rockland,41.18208,-74.02819,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,6154
+54,New York,,Saratoga,43.01209,-73.6489,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,6133
+55,New York,,Steuben,42.09142,-77.20978,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,5477
+56,New York,East Farmingdale,Suffolk,40.74529,-73.41919,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,6104
+57,New York,Riverhead,Suffolk,40.96078,-72.71238,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,4066
+58,New York,Holtsville,Suffolk,40.82799,-73.05754,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,5895
+59,New York,,Tompkins,42.4006,-76.6538,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,6014
+60,New York,,Wayne,43.23086,-77.17136,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,5161
+61,New York,White Plains,Westchester,41.05192,-73.76366,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,6157
+62,Pennsylvania,,Adams,39.9231,-77.3078,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,5993
+63,Pennsylvania,Pittsburgh,Allegheny,40.46542,-79.960757,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,6163
+64,Pennsylvania,Pittsburgh,Allegheny,40.445577,-80.016155,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,5805
+65,Pennsylvania,McDonald,Allegheny,40.375644,-80.169943,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,5126
+66,Pennsylvania,Harrison Township,Allegheny,40.613949,-79.72941,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,6071
+67,Pennsylvania,Kittanning,Armstrong,40.814183,-79.56475,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,6044
+68,Pennsylvania,,Beaver,40.56252,-80.503948,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,5739
+69,Pennsylvania,,Beaver,40.684722,-80.359722,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,6030
+70,Pennsylvania,Beaver Falls,Beaver,40.747796,-80.316442,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,5701
+71,Pennsylvania,,Berks,40.51408,-75.789721,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,6191
+72,Pennsylvania,,Berks,40.38335,-75.9686,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,6167
+73,Pennsylvania,Altoona,Blair,40.535278,-78.370833,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,6198
+74,Pennsylvania,,Bradford,41.705226,-76.512726,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,5190
+75,Pennsylvania,Bristol,Bucks,40.107222,-74.882222,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,6061
+76,Pennsylvania,Johnstown,Cambria,40.309722,-78.915,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,6176
+77,Pennsylvania,State College,Centre,40.811389,-77.877028,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,6179
+78,Pennsylvania,,Centre,40.7208,-77.9319,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,6136
+79,Pennsylvania,,Chester,39.834461,-75.768242,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,6118
+80,Pennsylvania,,Clearfield,41.1175,-78.526194,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,5878
+81,Pennsylvania,,Dauphin,40.246992,-76.846988,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,4524
+82,Pennsylvania,Hershey,Dauphin,40.272222,-76.681389,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,5625
+83,Pennsylvania,Chester,Delaware,39.835556,-75.3725,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,6136
+84,Pennsylvania,,Elk,41.598119,-78.767867,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,6133
+85,Pennsylvania,Erie,Erie,42.14175,-80.038611,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,6051
+86,Pennsylvania,,Franklin,39.961111,-77.475556,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,5877
+87,Pennsylvania,,Greene,39.80933,-80.26567,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,5795
+88,Pennsylvania,,Indiana,40.56333,-78.919972,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,5974
+89,Pennsylvania,Blakely,Lackawanna,41.479116,-75.578186,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,5997
+90,Pennsylvania,Scranton,Lackawanna,41.442778,-75.623056,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,6062
+91,Pennsylvania,Lancaster,Lancaster,40.046667,-76.283333,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,6157
+92,Pennsylvania,,Lancaster,40.043833,-76.1124,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,6148
+93,Pennsylvania,New Castle,Lawrence,40.995848,-80.346442,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,6149
+94,Pennsylvania,,Lebanon,40.337328,-76.383447,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,6168
+95,Pennsylvania,Allentown,Lehigh,40.611944,-75.4325,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,6109
+96,Pennsylvania,Nanticoke,Luzerne,41.209167,-76.003333,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,6184
+97,Pennsylvania,Wilkes-Barre,Luzerne,41.265556,-75.846389,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,6025
+98,Pennsylvania,Montoursville,Lycoming,41.2508,-76.9238,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,6091
+99,Pennsylvania,Farrell,Mercer,41.215014,-80.484779,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,5745
+100,Pennsylvania,,Mercer,41.4271,-80.1451,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,5957
+101,Pennsylvania,,Monroe,41.08306,-75.32328,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,6182
+102,Pennsylvania,Norristown,Montgomery,40.112222,-75.309167,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,6129
+103,Pennsylvania,Freemansburg,Northampton,40.628056,-75.341111,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,4941
+104,Pennsylvania,Wilson,Northampton,40.692224,-75.237156,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,4763
+105,Pennsylvania,,Perry,40.456944,-77.165556,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,6163
+106,Pennsylvania,Philadelphia,Philadelphia,40.008889,-75.09778,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,6164
+107,Pennsylvania,Philadelphia,Philadelphia,40.076389,-75.011944,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,5841
+108,Pennsylvania,Philadelphia,Philadelphia,39.991389,-75.080833,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,1232
+109,Pennsylvania,Philadelphia,Philadelphia,40.035985,-75.002405,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,4515
+110,Pennsylvania,,Somerset,39.9878,-79.2515,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,5466
+111,Pennsylvania,,Tioga,41.644722,-76.939167,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,5987
+112,Pennsylvania,Charleroi,Washington,40.146667,-79.902222,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,6120
+113,Pennsylvania,Washington,Washington,40.170556,-80.261389,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,6104
+114,Pennsylvania,,Washington,40.445278,-80.420833,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,6124
+115,Pennsylvania,,Washington,40.268963,-80.243995,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,6095
+116,Pennsylvania,Municipality of Murrysville (corp for Murrysville),Westmoreland,40.428076,-79.692811,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,6098
+117,Pennsylvania,Greensburg,Westmoreland,40.304694,-79.505667,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,6098
+118,Pennsylvania,York,York,39.965278,-76.699444,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,6166
+119,Pennsylvania,,York,39.86097,-76.462055,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,6054
+120,Vermont,Bennington,Bennington,42.88759,-73.24984,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,6113
+121,Vermont,Underhill (Town of),Chittenden,44.52839,-72.86884,Ozone,Parts per million,Daily maximum of 8-hour running average,8-HR RUN AVG BEGIN HOUR,5976

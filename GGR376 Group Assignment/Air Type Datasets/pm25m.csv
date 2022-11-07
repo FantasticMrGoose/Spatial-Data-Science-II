@@ -1,0 +1,261 @@
+,State.Name,City.Name,County.Name,Latitude,Longitude,Parameter.Name,Units.of.Measure,Metric.Used,Sample.Duration,Observation.Count
+1,Connecticut,Bridgeport,Fairfield,41.170833,-73.194722,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,120
+2,Connecticut,Bridgeport,Fairfield,41.170833,-73.194722,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,120
+3,Connecticut,Danbury,Fairfield,41.399167,-73.443056,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,122
+4,Connecticut,Danbury,Fairfield,41.399167,-73.443056,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,122
+5,Connecticut,Westport,Fairfield,41.118333,-73.336667,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,122
+6,Connecticut,Westport,Fairfield,41.118333,-73.336667,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,122
+7,Connecticut,East Hartford,Hartford,41.784722,-72.631667,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,361
+8,Connecticut,East Hartford,Hartford,41.784722,-72.631667,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,361
+9,Connecticut,East Hartford,Hartford,41.7425,-72.634444,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,121
+10,Connecticut,East Hartford,Hartford,41.7425,-72.634444,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,121
+11,Connecticut,Cornwall,Litchfield,41.821342,-73.297257,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,118
+12,Connecticut,Cornwall,Litchfield,41.821342,-73.297257,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,118
+13,Connecticut,New Haven,New Haven,41.3014,-72.902871,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,350
+14,Connecticut,New Haven,New Haven,41.3014,-72.902871,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,350
+15,Connecticut,New Haven,New Haven,41.3014,-72.902871,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,52
+16,Connecticut,New Haven,New Haven,41.3014,-72.902871,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,52
+17,Connecticut,New Haven,New Haven,41.310833,-72.916944,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,121
+18,Connecticut,New Haven,New Haven,41.310833,-72.916944,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,121
+19,Connecticut,Waterbury,New Haven,41.550556,-73.043611,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,120
+20,Connecticut,Waterbury,New Haven,41.550556,-73.043611,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,120
+21,Connecticut,Waterbury,New Haven,41.550556,-73.043611,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,61
+22,Connecticut,Waterbury,New Haven,41.550556,-73.043611,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,61
+23,Connecticut,Norwich,New London,41.524167,-72.076667,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,120
+24,Connecticut,Norwich,New London,41.524167,-72.076667,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,120
+25,Massachusetts,Pittsfield,Berkshire,42.448009,-73.254108,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,121
+26,Massachusetts,Pittsfield,Berkshire,42.448009,-73.254108,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,121
+27,Massachusetts,Fall River,Bristol,41.685707,-71.169235,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,116
+28,Massachusetts,Fall River,Bristol,41.685707,-71.169235,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,116
+29,Massachusetts,Lynn,Essex,42.474642,-70.970816,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,119
+30,Massachusetts,Lynn,Essex,42.474642,-70.970816,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,119
+31,Massachusetts,Haverhill,Essex,42.770837,-71.10229,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,117
+32,Massachusetts,Haverhill,Essex,42.770837,-71.10229,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,117
+33,Massachusetts,Lawrence,Essex,42.698215,-71.164413,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,122
+34,Massachusetts,Lawrence,Essex,42.698215,-71.164413,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,122
+35,Massachusetts,Chicopee,Hampden,42.19438,-72.555112,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,122
+36,Massachusetts,Chicopee,Hampden,42.19438,-72.555112,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,122
+37,Massachusetts,Chicopee,Hampden,42.19438,-72.555112,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,110
+38,Massachusetts,Chicopee,Hampden,42.19438,-72.555112,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,110
+39,Massachusetts,Springfield,Hampden,42.108992,-72.590803,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,122
+40,Massachusetts,Springfield,Hampden,42.108992,-72.590803,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,122
+41,Massachusetts,Springfield,Hampden,42.105792,-72.597133,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,118
+42,Massachusetts,Springfield,Hampden,42.105792,-72.597133,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,118
+43,Massachusetts,Brockton,Plymouth,42.081936,-71.014739,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,114
+44,Massachusetts,Brockton,Plymouth,42.081936,-71.014739,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,114
+45,Massachusetts,Brockton,Plymouth,42.081936,-71.014739,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,104
+46,Massachusetts,Brockton,Plymouth,42.081936,-71.014739,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,104
+47,Massachusetts,Brockton,Plymouth,42.065106,-71.012129,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,30
+48,Massachusetts,Brockton,Plymouth,42.065106,-71.012129,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,30
+49,Massachusetts,Boston,Suffolk,42.348873,-71.097163,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,117
+50,Massachusetts,Boston,Suffolk,42.348873,-71.097163,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,117
+51,Massachusetts,Boston,Suffolk,42.372122,-71.061741,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,114
+52,Massachusetts,Boston,Suffolk,42.372122,-71.061741,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,114
+53,Massachusetts,Boston,Suffolk,42.3295,-71.0826,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,118
+54,Massachusetts,Boston,Suffolk,42.3295,-71.0826,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,118
+55,Massachusetts,Boston,Suffolk,42.3631,-71.0543,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,347
+56,Massachusetts,Boston,Suffolk,42.3631,-71.0543,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,347
+57,Massachusetts,Boston,Suffolk,42.3631,-71.0543,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,325
+58,Massachusetts,Boston,Suffolk,42.3631,-71.0543,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,325
+59,Massachusetts,Boston,Suffolk,42.325186,-71.056061,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,31
+60,Massachusetts,Boston,Suffolk,42.325186,-71.056061,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,31
+61,Massachusetts,Worcester,Worcester,42.260102,-71.798375,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,110
+62,Massachusetts,Worcester,Worcester,42.260102,-71.798375,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,110
+63,Massachusetts,Worcester,Worcester,42.263955,-71.794322,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,121
+64,Massachusetts,Worcester,Worcester,42.263955,-71.794322,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,121
+65,New York,Albany,Albany,42.64225,-73.75464,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,112
+66,New York,Albany,Albany,42.64225,-73.75464,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,112
+67,New York,Albany,Albany,42.64225,-73.75464,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,112
+68,New York,Albany,Albany,42.64225,-73.75464,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,112
+69,New York,Albany,Albany,42.68075,-73.75733,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,103
+70,New York,Albany,Albany,42.68075,-73.75733,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,103
+71,New York,New York,Bronx,40.816,-73.902,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,122
+72,New York,New York,Bronx,40.816,-73.902,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,122
+73,New York,New York,Bronx,40.8679,-73.87809,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,120
+74,New York,New York,Bronx,40.8679,-73.87809,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,120
+75,New York,Dunkirk,Chautauqua,42.49963,-79.31881,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,77
+76,New York,Dunkirk,Chautauqua,42.49963,-79.31881,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,77
+77,New York,Westfield,Chautauqua,42.29071,-79.58961,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,16
+78,New York,Westfield,Chautauqua,42.29071,-79.58961,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,16
+79,New York,Amherst,Erie,42.99328,-78.77153,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,68
+80,New York,Amherst,Erie,42.99328,-78.77153,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,68
+81,New York,Buffalo,Erie,42.876907,-78.809526,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,116
+82,New York,Buffalo,Erie,42.876907,-78.809526,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,116
+83,New York,,Essex,44.39308,-73.8589,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,59
+84,New York,,Essex,44.39308,-73.8589,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,59
+85,New York,New York,Kings,40.71961,-73.94771,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,114
+86,New York,New York,Kings,40.71961,-73.94771,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,114
+87,New York,Rochester,Monroe,43.14618,-77.54817,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,117
+88,New York,Rochester,Monroe,43.14618,-77.54817,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,117
+89,New York,New York,New York,40.7997,-73.93432,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,113
+90,New York,New York,New York,40.7997,-73.93432,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,113
+91,New York,New York,New York,40.7997,-73.93432,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,116
+92,New York,New York,New York,40.7997,-73.93432,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,116
+93,New York,New York,New York,40.73,-73.984,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,113
+94,New York,New York,New York,40.73,-73.984,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,113
+95,New York,New York,New York,40.71436,-73.99518,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,104
+96,New York,New York,New York,40.71436,-73.99518,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,104
+97,New York,Niagara Falls,Niagara,43.08218,-79.00106,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,23
+98,New York,Niagara Falls,Niagara,43.08218,-79.00106,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,23
+99,New York,East Syracuse,Onondaga,43.05235,-76.05921,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,114
+100,New York,East Syracuse,Onondaga,43.05235,-76.05921,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,114
+101,New York,Newburgh,Orange,41.49916,-74.00885,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,113
+102,New York,Newburgh,Orange,41.49916,-74.00885,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,113
+103,New York,New York,Queens,40.73614,-73.82153,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,333
+104,New York,New York,Queens,40.73614,-73.82153,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,333
+105,New York,New York,Richmond,40.63307,-74.13719,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,104
+106,New York,New York,Richmond,40.63307,-74.13719,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,104
+107,New York,,Steuben,42.09142,-77.20978,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,105
+108,New York,,Steuben,42.09142,-77.20978,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,105
+109,New York,East Farmingdale,Suffolk,40.74529,-73.41919,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,117
+110,New York,East Farmingdale,Suffolk,40.74529,-73.41919,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,117
+111,Pennsylvania,,Adams,39.92002,-77.30968,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24-HR BLK AVG,339
+112,Pennsylvania,,Adams,39.92002,-77.30968,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24-HR BLK AVG,339
+113,Pennsylvania,Avalon,Allegheny,40.499767,-80.071337,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,112
+114,Pennsylvania,Avalon,Allegheny,40.499767,-80.071337,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,112
+115,Pennsylvania,Pittsburgh,Allegheny,40.46542,-79.960757,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,360
+116,Pennsylvania,Pittsburgh,Allegheny,40.46542,-79.960757,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,360
+117,Pennsylvania,Pittsburgh,Allegheny,40.46542,-79.960757,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,58
+118,Pennsylvania,Pittsburgh,Allegheny,40.46542,-79.960757,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,58
+119,Pennsylvania,Liberty,Allegheny,40.323768,-79.868062,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,357
+120,Pennsylvania,Liberty,Allegheny,40.323768,-79.868062,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,357
+121,Pennsylvania,Liberty,Allegheny,40.323768,-79.868062,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,59
+122,Pennsylvania,Liberty,Allegheny,40.323768,-79.868062,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,59
+123,Pennsylvania,McDonald,Allegheny,40.375644,-80.169943,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,112
+124,Pennsylvania,McDonald,Allegheny,40.375644,-80.169943,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,112
+125,Pennsylvania,McCandless Township,Allegheny,40.606624,-80.021669,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,57
+126,Pennsylvania,McCandless Township,Allegheny,40.606624,-80.021669,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,57
+127,Pennsylvania,Harrison Township,Allegheny,40.617488,-79.727664,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,117
+128,Pennsylvania,Harrison Township,Allegheny,40.617488,-79.727664,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,117
+129,Pennsylvania,North Braddock,Allegheny,40.402328,-79.860973,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,111
+130,Pennsylvania,North Braddock,Allegheny,40.402328,-79.860973,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,111
+131,Pennsylvania,Clairton,Allegheny,40.294341,-79.885331,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,58
+132,Pennsylvania,Clairton,Allegheny,40.294341,-79.885331,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,58
+133,Pennsylvania,Kittanning,Armstrong,40.814183,-79.56475,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24-HR BLK AVG,342
+134,Pennsylvania,Kittanning,Armstrong,40.814183,-79.56475,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24-HR BLK AVG,342
+135,Pennsylvania,Beaver Falls,Beaver,40.747796,-80.316442,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,358
+136,Pennsylvania,Beaver Falls,Beaver,40.747796,-80.316442,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,358
+137,Pennsylvania,Beaver Falls,Beaver,40.747796,-80.316442,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24-HR BLK AVG,337
+138,Pennsylvania,Beaver Falls,Beaver,40.747796,-80.316442,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24-HR BLK AVG,337
+139,Pennsylvania,,Berks,40.38335,-75.9686,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,310
+140,Pennsylvania,,Berks,40.38335,-75.9686,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,310
+141,Pennsylvania,,Berks,40.38335,-75.9686,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24-HR BLK AVG,360
+142,Pennsylvania,,Berks,40.38335,-75.9686,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24-HR BLK AVG,360
+143,Pennsylvania,Altoona,Blair,40.535278,-78.370833,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24-HR BLK AVG,346
+144,Pennsylvania,Altoona,Blair,40.535278,-78.370833,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24-HR BLK AVG,346
+145,Pennsylvania,Bristol,Bucks,40.107222,-74.882222,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,320
+146,Pennsylvania,Bristol,Bucks,40.107222,-74.882222,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,320
+147,Pennsylvania,Bristol,Bucks,40.107222,-74.882222,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24-HR BLK AVG,330
+148,Pennsylvania,Bristol,Bucks,40.107222,-74.882222,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24-HR BLK AVG,330
+149,Pennsylvania,Johnstown,Cambria,40.309722,-78.915,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24-HR BLK AVG,345
+150,Pennsylvania,Johnstown,Cambria,40.309722,-78.915,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24-HR BLK AVG,345
+151,Pennsylvania,State College,Centre,40.811389,-77.877028,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,286
+152,Pennsylvania,State College,Centre,40.811389,-77.877028,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,286
+153,Pennsylvania,State College,Centre,40.811389,-77.877028,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24-HR BLK AVG,344
+154,Pennsylvania,State College,Centre,40.811389,-77.877028,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24-HR BLK AVG,344
+155,Pennsylvania,,Chester,39.834461,-75.768242,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,327
+156,Pennsylvania,,Chester,39.834461,-75.768242,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,327
+157,Pennsylvania,,Chester,39.834461,-75.768242,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24-HR BLK AVG,297
+158,Pennsylvania,,Chester,39.834461,-75.768242,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24-HR BLK AVG,297
+159,Pennsylvania,Carlisle,Cumberland,40.246528,-77.18675,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,306
+160,Pennsylvania,Carlisle,Cumberland,40.246528,-77.18675,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,306
+161,Pennsylvania,Carlisle,Cumberland,40.246528,-77.18675,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24-HR BLK AVG,347
+162,Pennsylvania,Carlisle,Cumberland,40.246528,-77.18675,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24-HR BLK AVG,347
+163,Pennsylvania,,Dauphin,40.246992,-76.846988,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,242
+164,Pennsylvania,,Dauphin,40.246992,-76.846988,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,242
+165,Pennsylvania,,Dauphin,40.246992,-76.846988,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24-HR BLK AVG,215
+166,Pennsylvania,,Dauphin,40.246992,-76.846988,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24-HR BLK AVG,215
+167,Pennsylvania,Chester,Delaware,39.835556,-75.3725,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,56
+168,Pennsylvania,Chester,Delaware,39.835556,-75.3725,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,56
+169,Pennsylvania,Chester,Delaware,39.835556,-75.3725,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24-HR BLK AVG,336
+170,Pennsylvania,Chester,Delaware,39.835556,-75.3725,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24-HR BLK AVG,336
+171,Pennsylvania,Erie,Erie,42.14175,-80.038611,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24-HR BLK AVG,348
+172,Pennsylvania,Erie,Erie,42.14175,-80.038611,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24-HR BLK AVG,348
+173,Pennsylvania,Scranton,Lackawanna,41.442778,-75.623056,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24-HR BLK AVG,334
+174,Pennsylvania,Scranton,Lackawanna,41.442778,-75.623056,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24-HR BLK AVG,334
+175,Pennsylvania,Lancaster,Lancaster,40.046667,-76.283333,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,361
+176,Pennsylvania,Lancaster,Lancaster,40.046667,-76.283333,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,361
+177,Pennsylvania,Lancaster,Lancaster,40.046667,-76.283333,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,59
+178,Pennsylvania,Lancaster,Lancaster,40.046667,-76.283333,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,59
+179,Pennsylvania,Lancaster,Lancaster,40.046667,-76.283333,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24-HR BLK AVG,361
+180,Pennsylvania,Lancaster,Lancaster,40.046667,-76.283333,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24-HR BLK AVG,361
+181,Pennsylvania,,Lebanon,40.337328,-76.383447,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24-HR BLK AVG,342
+182,Pennsylvania,,Lebanon,40.337328,-76.383447,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24-HR BLK AVG,342
+183,Pennsylvania,Farrell,Mercer,41.215014,-80.484779,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,303
+184,Pennsylvania,Farrell,Mercer,41.215014,-80.484779,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,303
+185,Pennsylvania,Farrell,Mercer,41.215014,-80.484779,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24-HR BLK AVG,211
+186,Pennsylvania,Farrell,Mercer,41.215014,-80.484779,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24-HR BLK AVG,211
+187,Pennsylvania,,Monroe,41.08306,-75.32328,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24-HR BLK AVG,342
+188,Pennsylvania,,Monroe,41.08306,-75.32328,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24-HR BLK AVG,342
+189,Pennsylvania,Norristown,Montgomery,40.112222,-75.309167,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,312
+190,Pennsylvania,Norristown,Montgomery,40.112222,-75.309167,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,312
+191,Pennsylvania,Norristown,Montgomery,40.112222,-75.309167,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24-HR BLK AVG,340
+192,Pennsylvania,Norristown,Montgomery,40.112222,-75.309167,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24-HR BLK AVG,340
+193,Pennsylvania,Freemansburg,Northampton,40.628056,-75.341111,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,344
+194,Pennsylvania,Freemansburg,Northampton,40.628056,-75.341111,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,344
+195,Pennsylvania,Freemansburg,Northampton,40.628056,-75.341111,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24-HR BLK AVG,325
+196,Pennsylvania,Freemansburg,Northampton,40.628056,-75.341111,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24-HR BLK AVG,325
+197,Pennsylvania,,Northampton,40.645889,-75.404397,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,349
+198,Pennsylvania,,Northampton,40.645889,-75.404397,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,349
+199,Pennsylvania,Philadelphia,Philadelphia,40.008889,-75.09778,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,223
+200,Pennsylvania,Philadelphia,Philadelphia,40.008889,-75.09778,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,223
+201,Pennsylvania,Philadelphia,Philadelphia,39.944651,-75.165206,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,166
+202,Pennsylvania,Philadelphia,Philadelphia,39.944651,-75.165206,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,166
+203,Pennsylvania,Philadelphia,Philadelphia,39.944651,-75.165206,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24-HR BLK AVG,251
+204,Pennsylvania,Philadelphia,Philadelphia,39.944651,-75.165206,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24-HR BLK AVG,251
+205,Pennsylvania,Philadelphia,Philadelphia,39.944651,-75.165206,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,83
+206,Pennsylvania,Philadelphia,Philadelphia,39.944651,-75.165206,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,83
+207,Pennsylvania,Philadelphia,Philadelphia,39.991389,-75.080833,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,24
+208,Pennsylvania,Philadelphia,Philadelphia,39.991389,-75.080833,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,24
+209,Pennsylvania,Philadelphia,Philadelphia,39.991389,-75.080833,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24-HR BLK AVG,73
+210,Pennsylvania,Philadelphia,Philadelphia,39.991389,-75.080833,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24-HR BLK AVG,73
+211,Pennsylvania,Philadelphia,Philadelphia,39.922867,-75.186921,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,87
+212,Pennsylvania,Philadelphia,Philadelphia,39.922867,-75.186921,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,87
+213,Pennsylvania,Philadelphia,Philadelphia,39.922867,-75.186921,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24-HR BLK AVG,213
+214,Pennsylvania,Philadelphia,Philadelphia,39.922867,-75.186921,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24-HR BLK AVG,213
+215,Pennsylvania,Philadelphia,Philadelphia,39.960048,-75.142614,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,117
+216,Pennsylvania,Philadelphia,Philadelphia,39.960048,-75.142614,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,117
+217,Pennsylvania,Philadelphia,Philadelphia,39.960048,-75.142614,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24-HR BLK AVG,177
+218,Pennsylvania,Philadelphia,Philadelphia,39.960048,-75.142614,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24-HR BLK AVG,177
+219,Pennsylvania,Philadelphia,Philadelphia,40.035985,-75.002405,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,84
+220,Pennsylvania,Philadelphia,Philadelphia,40.035985,-75.002405,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,84
+221,Pennsylvania,Philadelphia,Philadelphia,40.035985,-75.002405,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24-HR BLK AVG,256
+222,Pennsylvania,Philadelphia,Philadelphia,40.035985,-75.002405,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24-HR BLK AVG,256
+223,Pennsylvania,Charleroi,Washington,40.146667,-79.902222,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24-HR BLK AVG,346
+224,Pennsylvania,Charleroi,Washington,40.146667,-79.902222,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24-HR BLK AVG,346
+225,Pennsylvania,Washington,Washington,40.170556,-80.261389,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,305
+226,Pennsylvania,Washington,Washington,40.170556,-80.261389,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,305
+227,Pennsylvania,Washington,Washington,40.170556,-80.261389,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24-HR BLK AVG,351
+228,Pennsylvania,Washington,Washington,40.170556,-80.261389,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24-HR BLK AVG,351
+229,Pennsylvania,,Washington,40.445278,-80.420833,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,325
+230,Pennsylvania,,Washington,40.445278,-80.420833,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,325
+231,Pennsylvania,,Washington,40.445278,-80.420833,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24-HR BLK AVG,301
+232,Pennsylvania,,Washington,40.445278,-80.420833,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24-HR BLK AVG,301
+233,Pennsylvania,,Washington,40.268963,-80.243995,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,333
+234,Pennsylvania,,Washington,40.268963,-80.243995,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,333
+235,Pennsylvania,Greensburg,Westmoreland,40.304694,-79.505667,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,346
+236,Pennsylvania,Greensburg,Westmoreland,40.304694,-79.505667,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,346
+237,Pennsylvania,Greensburg,Westmoreland,40.304694,-79.505667,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24-HR BLK AVG,261
+238,Pennsylvania,Greensburg,Westmoreland,40.304694,-79.505667,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24-HR BLK AVG,261
+239,Pennsylvania,Greensburg,Westmoreland,40.304694,-79.505667,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24-HR BLK AVG,312
+240,Pennsylvania,Greensburg,Westmoreland,40.304694,-79.505667,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24-HR BLK AVG,312
+241,Pennsylvania,York,York,39.965278,-76.699444,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,290
+242,Pennsylvania,York,York,39.965278,-76.699444,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,290
+243,Pennsylvania,York,York,39.965278,-76.699444,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,53
+244,Pennsylvania,York,York,39.965278,-76.699444,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,53
+245,Pennsylvania,York,York,39.965278,-76.699444,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24-HR BLK AVG,360
+246,Pennsylvania,York,York,39.965278,-76.699444,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24-HR BLK AVG,360
+247,Vermont,Bennington,Bennington,42.88759,-73.24984,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,117
+248,Vermont,Bennington,Bennington,42.88759,-73.24984,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,117
+249,Vermont,Underhill (Town of),Chittenden,44.52839,-72.86884,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,104
+250,Vermont,Underhill (Town of),Chittenden,44.52839,-72.86884,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,104
+251,Vermont,Burlington,Chittenden,44.480278,-73.214444,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,106
+252,Vermont,Burlington,Chittenden,44.480278,-73.214444,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,106
+253,Vermont,Burlington,Chittenden,44.480278,-73.214444,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,114
+254,Vermont,Burlington,Chittenden,44.480278,-73.214444,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,114
+255,Vermont,Burlington,Chittenden,44.4762,-73.2106,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,87
+256,Vermont,Burlington,Chittenden,44.4762,-73.2106,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,87
+257,Vermont,Rutland,Rutland,43.608056,-72.982778,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,115
+258,Vermont,Rutland,Rutland,43.608056,-72.982778,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,115
+259,Vermont,Rutland,Rutland,43.608056,-72.982778,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,63
+260,Vermont,Rutland,Rutland,43.608056,-72.982778,PM2.5 - Local Conditions,Micrograms/cubic meter (LC),Daily Mean,24 HOUR,63

@@ -1,0 +1,47 @@
+"","State.Name","City.Name","County.Name","Latitude","Longitude","Parameter.Name","Units.of.Measure","Metric.Used","Sample.Duration","Observation.Count"
+"1","Connecticut","Westport","Fairfield",41.118333,-73.336667,"Nitrogen dioxide (NO2)","Parts per billion","Observed values","1 HOUR",8533
+"2","Connecticut","Hartford","Hartford",41.771444,-72.679923,"Nitrogen dioxide (NO2)","Parts per billion","Observed values","1 HOUR",6383
+"3","Connecticut","East Hartford","Hartford",41.784722,-72.631667,"Nitrogen dioxide (NO2)","Parts per billion","Observed values","1 HOUR",7069
+"4","Connecticut","Cornwall","Litchfield",41.821342,-73.297257,"Nitrogen dioxide (NO2)","Parts per billion","Observed values","1 HOUR",8477
+"5","Connecticut","New Haven","New Haven",41.3014,-72.902871,"Nitrogen dioxide (NO2)","Parts per billion","Observed values","1 HOUR",8626
+"6","Massachusetts","Lynn","Essex",42.474642,-70.970816,"Nitrogen dioxide (NO2)","Parts per billion","Observed values","1 HOUR",8297
+"7","Massachusetts","Newburyport","Essex",42.814412,-70.817783,"Nitrogen dioxide (NO2)","Parts per billion","Observed values","1 HOUR",8027
+"8","Massachusetts","Chicopee","Hampden",42.19438,-72.555112,"Nitrogen dioxide (NO2)","Parts per billion","Observed values","1 HOUR",8186
+"9","Massachusetts","Springfield","Hampden",42.108992,-72.590803,"Nitrogen dioxide (NO2)","Parts per billion","Observed values","1 HOUR",8158
+"10","Massachusetts","Ware (census name for Ware Center)","Hampshire",42.298493,-72.334079,"Nitrogen dioxide (NO2)","Parts per billion","Observed values","1 HOUR",8283
+"11","Massachusetts","Milton","Norfolk",42.211774,-71.11397,"Nitrogen dioxide (NO2)","Parts per billion","Observed values","1 HOUR",6461
+"12","Massachusetts","Boston","Suffolk",42.348873,-71.097163,"Nitrogen dioxide (NO2)","Parts per billion","Observed values","1 HOUR",7944
+"13","Massachusetts","Boston","Suffolk",42.340251,-71.03835,"Nitrogen dioxide (NO2)","Parts per billion","Observed values","1 HOUR",8106
+"14","Massachusetts","Boston","Suffolk",42.317372,-70.968359,"Nitrogen dioxide (NO2)","Parts per billion","Observed values","1 HOUR",6466
+"15","Massachusetts","Boston","Suffolk",42.3295,-71.0826,"Nitrogen dioxide (NO2)","Parts per billion","Observed values","1 HOUR",8034
+"16","Massachusetts","Boston","Suffolk",42.325186,-71.056061,"Nitrogen dioxide (NO2)","Parts per billion","Observed values","1 HOUR",4549
+"17","Massachusetts","Worcester","Worcester",42.263955,-71.794322,"Nitrogen dioxide (NO2)","Parts per billion","Observed values","1 HOUR",8243
+"18","New York","New York","Bronx",40.816,-73.902,"Nitrogen dioxide (NO2)","Parts per billion","Observed values","1 HOUR",8434
+"19","New York","New York","Bronx",40.8679,-73.87809,"Nitrogen dioxide (NO2)","Parts per billion","Observed values","1 HOUR",8633
+"20","New York","Buffalo","Erie",42.876907,-78.809526,"Nitrogen dioxide (NO2)","Parts per billion","Observed values","1 HOUR",6389
+"21","New York","","Franklin",44.980577,-74.695005,"Nitrogen dioxide (NO2)","Parts per billion","Observed values","1 HOUR",6952
+"22","New York","New York","Queens",40.73614,-73.82153,"Nitrogen dioxide (NO2)","Parts per billion","Observed values","1 HOUR",8429
+"23","Pennsylvania","","Adams",39.92002,-77.30968,"Nitrogen dioxide (NO2)","Parts per billion","Observed values","1 HOUR",8204
+"24","Pennsylvania","Pittsburgh","Allegheny",40.46542,-79.960757,"Nitrogen dioxide (NO2)","Parts per billion","Observed values","1 HOUR",8691
+"25","Pennsylvania","Pittsburgh","Allegheny",40.445577,-80.016155,"Nitrogen dioxide (NO2)","Parts per billion","Observed values","1 HOUR",8503
+"26","Pennsylvania","Harrison Township","Allegheny",40.613949,-79.72941,"Nitrogen dioxide (NO2)","Parts per billion","Observed values","1 HOUR",8707
+"27","Pennsylvania","Beaver Falls","Beaver",40.747796,-80.316442,"Nitrogen dioxide (NO2)","Parts per billion","Observed values","1 HOUR",8273
+"28","Pennsylvania","","Berks",40.38335,-75.9686,"Nitrogen dioxide (NO2)","Parts per billion","Observed values","1 HOUR",8482
+"29","Pennsylvania","","Bradford",41.705226,-76.512726,"Nitrogen dioxide (NO2)","Parts per billion","Observed values","1 HOUR",6736
+"30","Pennsylvania","Bristol","Bucks",40.107222,-74.882222,"Nitrogen dioxide (NO2)","Parts per billion","Observed values","1 HOUR",8170
+"31","Pennsylvania","Johnstown","Cambria",40.309722,-78.915,"Nitrogen dioxide (NO2)","Parts per billion","Observed values","1 HOUR",8292
+"32","Pennsylvania","State College","Centre",40.811389,-77.877028,"Nitrogen dioxide (NO2)","Parts per billion","Observed values","1 HOUR",8210
+"33","Pennsylvania","Chester","Delaware",39.835556,-75.3725,"Nitrogen dioxide (NO2)","Parts per billion","Observed values","1 HOUR",7796
+"34","Pennsylvania","Erie","Erie",42.14175,-80.038611,"Nitrogen dioxide (NO2)","Parts per billion","Observed values","1 HOUR",8336
+"35","Pennsylvania","Scranton","Lackawanna",41.442778,-75.623056,"Nitrogen dioxide (NO2)","Parts per billion","Observed values","1 HOUR",8431
+"36","Pennsylvania","Lancaster","Lancaster",40.046667,-76.283333,"Nitrogen dioxide (NO2)","Parts per billion","Observed values","1 HOUR",8224
+"37","Pennsylvania","Freemansburg","Northampton",40.628056,-75.341111,"Nitrogen dioxide (NO2)","Parts per billion","Observed values","1 HOUR",8607
+"38","Pennsylvania","","Perry",40.456944,-77.165556,"Nitrogen dioxide (NO2)","Parts per billion","Observed values","1 HOUR",8197
+"39","Pennsylvania","Philadelphia","Philadelphia",40.008889,-75.09778,"Nitrogen dioxide (NO2)","Parts per billion","Observed values","1 HOUR",7899
+"40","Pennsylvania","Philadelphia","Philadelphia",39.944651,-75.165206,"Nitrogen dioxide (NO2)","Parts per billion","Observed values","1 HOUR",8349
+"41","Pennsylvania","","Tioga",41.644722,-76.939167,"Nitrogen dioxide (NO2)","Parts per billion","Observed values","1 HOUR",8452
+"42","Pennsylvania","Charleroi","Washington",40.146667,-79.902222,"Nitrogen dioxide (NO2)","Parts per billion","Observed values","1 HOUR",8607
+"43","Pennsylvania","","Washington",40.268963,-80.243995,"Nitrogen dioxide (NO2)","Parts per billion","Observed values","1 HOUR",8391
+"44","Pennsylvania","York","York",39.965278,-76.699444,"Nitrogen dioxide (NO2)","Parts per billion","Observed values","1 HOUR",7719
+"45","Vermont","Burlington","Chittenden",44.4762,-73.2106,"Nitrogen dioxide (NO2)","Parts per billion","Observed values","1 HOUR",8287
+"46","Vermont","Rutland","Rutland",43.608056,-72.982778,"Nitrogen dioxide (NO2)","Parts per billion","Observed values","1 HOUR",7450
