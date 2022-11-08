@@ -1,2 +1,2 @@
 # GGR376
-Spatial Data Science II
+Spatial Data Science II Course Work
